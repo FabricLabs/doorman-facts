@@ -1,0 +1,28 @@
+{
+  "name": "doorman-facts",
+  "version": "0.1.0",
+  "description": "Provide facts & trivia through Doorman, a multi-platform chatbot and community assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabricLabs/doorman-facts.git"
+  },
+  "keywords": [
+    "doorman",
+    "plugin",
+    "chatbot",
+    "trivia",
+    "facts",
+    "community",
+    "snarl"
+  ],
+  "author": "Eric Martindale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FabricLabs/doorman-facts/issues"
+  },
+  "homepage": "https://github.com/FabricLabs/doorman-facts#readme"
+}
